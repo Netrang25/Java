@@ -7,4 +7,6 @@ class For6{
 				count++;
 			}}
 		if(count==2){
-			S
+			System.out.println("its a prime no");}
+		else{
+			System.out.println("it not a prime no ");}}}
